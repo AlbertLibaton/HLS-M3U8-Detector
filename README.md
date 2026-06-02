@@ -1,6 +1,7 @@
 
 <img width="755" height="434" alt="Screenshot 2026-06-03 at 6 13 07 AM" src="https://github.com/user-attachments/assets/7668853a-be1b-4aa6-8d3d-15acde0a462b" />
 
+<img width="546" height="369" alt="Screenshot 2026-06-03 at 6 13 51 AM" src="https://github.com/user-attachments/assets/6da38958-e1e6-4fdd-ac61-17d5f57114bd" />
 
 
 # HLS-M3U8-Detector
