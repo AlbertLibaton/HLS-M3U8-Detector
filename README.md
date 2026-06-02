@@ -1,3 +1,8 @@
+
+<img width="755" height="434" alt="Screenshot 2026-06-03 at 6 13 07 AM" src="https://github.com/user-attachments/assets/7668853a-be1b-4aa6-8d3d-15acde0a462b" />
+
+
+
 # HLS-M3U8-Detector
 HLS / M3U8 Detector is a Chrome extension designed for developers, testers, and streaming enthusiasts. It monitors network requests and identifies HLS playlist files (.m3u8) used by modern video streaming platforms.  The extension helps users quickly discover HLS stream URLs for debugging, development, quality assurance, and educational purposes.
 
